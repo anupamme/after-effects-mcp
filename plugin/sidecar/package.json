@@ -8,8 +8,5 @@
   },
   "scripts": {
     "test": "node --test"
-  },
-  "overrides": {
-    "fast-uri": "4.1.2"
   }
 }
